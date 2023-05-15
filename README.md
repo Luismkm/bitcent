@@ -1,38 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img style="margin-bottom:24px; width:300px" src="https://ik.imagekit.io/meaid6cls2/bitcent/Group_5__6I0It-FP.png?updatedAt=1684159623658" />
+<img style="margin-bottom:24px; width:100px" src="https://ik.imagekit.io/meaid6cls2/bitcent/Group_6_8xsWwDKuH.png?updatedAt=1684159971187" />
 
-## Getting Started
+---
 
-First, run the development server:
+## 📋 Sobre
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<p>O projeto foi desenvolvido durante o evento Formação Dev promovido pela Cod3r.</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>A aplicação tem como objetivo auxiliar no controle financeiro, permitindo o registro e gerenciamento de receitas e despesas. Com ela, você poderá ter um controle mais eficiente das suas finanças, facilitando a visualização e análise dos seus gastos e ganhos.</p>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<br />
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 💻 Principais tecnologias utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- React/Next
+- Tailwindcss
+- Firebase
 
-## Learn More
+<br />
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Deploy
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Acessar Deploy](https://bitcent-eta.vercel.app/)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br />
+<br />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center" style="padding-top: 15px;">Feito com 💜 by <strong><a href="https://www.linkedin.com/in/luismkm/" target="_blank">Luis Moraes</a></strong> </p>
