@@ -20,12 +20,12 @@ export default function Financas() {
 
   function renderizarControles() {
     return (
-      <div className="flex justify-between">
+      <div className="flex flex-col md:flex-row gap-5 md:gap-0 justify-between">
         <CampoMesAno
           data={data}
           dataMudou={alterarData}
         />
-        <div className="flex gap-5">
+        <div className="flex flex-col md:flex-row gap-5">
           <Button
             className="bg-blue-500"
             leftIcon={<IconPlus />}
