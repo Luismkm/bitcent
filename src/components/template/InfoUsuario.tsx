@@ -1,9 +1,8 @@
-import usuario from "@/data/constants/usuarioFalso";
 import AutenticacaoContext from "@/data/contexts/AutenticacaoContext";
 import { useContext } from "react";
 
 export default function InfoUsuario() {
-  const { logout } = useContext(AutenticacaoContext)
+  const { usuario, logout } = useContext(AutenticacaoContext)
   return (
     <div 
       className='flex items-center gap-3 cursor-pointer'
