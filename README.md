@@ -1,5 +1,5 @@
-<img style="margin-bottom:24px; width:300px" src="https://ik.imagekit.io/meaid6cls2/bitcent/Group_5__6I0It-FP.png?updatedAt=1684159623658" />
-<img style="margin-bottom:24px; width:100px" src="https://ik.imagekit.io/meaid6cls2/bitcent/Group_6_8xsWwDKuH.png?updatedAt=1684159971187" />
+<img style="margin-bottom:24px; width:70%" src="https://ik.imagekit.io/meaid6cls2/bitcent/Group_5__6I0It-FP.png?updatedAt=1684159623658" />
+<img style="margin-bottom:24px; width:20%" src="https://ik.imagekit.io/meaid6cls2/bitcent/Group_6_8xsWwDKuH.png?updatedAt=1684159971187" />
 
 ---
 
